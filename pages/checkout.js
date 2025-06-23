@@ -1,8 +1,8 @@
 export default function CheckOut() {
   return (
-    <div className="p-10 text-center">
-      <h2 className="text-2xl font-bold mb-4">Check Out Laptops</h2>
-      <p>This is the check-out page. We'll wire up full scan logic here next.</p>
+    <div className="p-10">
+      <h2 className="text-xl font-bold">Laptop Check Out</h2>
+      <p>Scan a laptop to check out automatically.</p>
     </div>
-  );
+  )
 }
